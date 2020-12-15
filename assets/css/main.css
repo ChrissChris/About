@@ -2229,17 +2229,8 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-.image.avatar {
-  border-radius: 100%;
-}
-
 .image.avatar:before {
   display: none;
-}
-
-.image.avatar img {
-  border-radius: 100%;
-  width: 100%;
 }
 
 /* List */
